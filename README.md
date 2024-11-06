@@ -1,5 +1,6 @@
-## Hi there 👋
+## 我是程序员 👋
 
+⚡您好呀，我是一名 98 年的程序员；
 <!--
 **coder-lhq/coder-lhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
