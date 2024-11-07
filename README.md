@@ -2,10 +2,10 @@
 
 ⚡您好呀，我是一名 98 年的程序员；
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-lhq&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-lhq&layout=compact&theme=radical)
 
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-lhq&theme=radical)
 **coder-lhq/coder-lhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
