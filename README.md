@@ -2,8 +2,8 @@
 
 ⚡您好呀，我是一名 98 年的程序员；
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-lhq)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)
+
 <!--
 **coder-lhq/coder-lhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
