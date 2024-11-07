@@ -2,7 +2,7 @@
 
 ⚡您好呀，我是一名 98 年的程序员；
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-lhq&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-lhq&theme=dracula)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-lhq&layout=compact&theme=tokyonight)
