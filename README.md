@@ -1,5 +1,3 @@
-## 干中学 👋
-
 ⚡您好呀，我是一名程序员；
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-lhq&layout=compact&theme=radical)
